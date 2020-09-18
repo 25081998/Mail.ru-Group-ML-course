@@ -12,3 +12,7 @@
 5 - Decision Tree, One Hot Encoding. https://www.kaggle.com/c/mai-ml-decision-trees
 
 6 - соревнование на Kaggle. Регрессия. https://www.kaggle.com/c/mai-ml-hw-models
+
+7 - поиск похожих текстовых документов с помощью Word2Vec, Tf-Idf и подсчета одинаковых слов
+
+8 - PCA, K-Means
